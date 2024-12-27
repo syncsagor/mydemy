@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to Python",
+    "title": "Learn Python from Scratch",
+    "description": "Master the fundamentals of Python programming with this beginner-friendly course.",
+    "price": 25.99,
+    "category": "Programming",
+    "ratings": 4.7,
+    "image": "https://i.postimg.cc/jqDsNNJK/python-course.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "name": "Data Science Bootcamp",
+    "title": "Become a Data Scientist",
+    "description": "Comprehensive course covering Python, machine learning, and data visualization.",
+    "price": 49.99,
+    "category": "Data Science",
+    "ratings": 4.8,
+    "image": "https://i.postimg.cc/4ymj9z80/data-science.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "name": "Web Development Mastery",
+    "title": "Full Stack Web Developer Guide",
+    "description": "Learn HTML, CSS, JavaScript, and backend development with hands-on projects.",
+    "price": 29.99,
+    "category": "Web Development",
+    "ratings": 4.6,
+    "image": "https://i.postimg.cc/9FTCghpn/web-dev.jpg",
+    "level": "Beginner to Advanced"
+  },
+  {
+    "id": 4,
+    "name": "Digital Marketing Basics",
+    "title": "Boost Your Digital Marketing Skills",
+    "description": "Understand SEO, social media, and email marketing with this complete guide.",
+    "price": 19.99,
+    "category": "Marketing",
+    "ratings": 4.5,
+    "image": "https://i.postimg.cc/Zn22FC25/digital-marketing.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 5,
+    "name": "Advanced React.js",
+    "title": "Master React Development",
+    "description": "Build dynamic web applications using React.js and Redux.",
+    "price": 39.99,
+    "category": "Web Development",
+    "ratings": 4.9,
+    "image": "https://i.postimg.cc/J7SRQnbX/react-course.jpg",
+    "level": "Advanced"
+  },
+  {
+    "id": 6,
+    "name": "Graphic Design Essentials",
+    "title": "Learn Adobe Photoshop and Illustrator",
+    "description": "Create stunning visuals and designs with this hands-on graphic design course.",
+    "price": 24.99,
+    "category": "Design",
+    "ratings": 4.7,
+    "image": "https://i.postimg.cc/rpMbJ6nx/graphic-design.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 7,
+    "name": "Project Management Professional",
+    "title": "PMP Certification Preparation",
+    "description": "Prepare for the PMP certification with real-world project management scenarios.",
+    "price": 59.99,
+    "category": "Business",
+    "ratings": 4.8,
+    "image": "https://i.postimg.cc/NMPzBKgk/pexels-markusspiske-2061168.jpg",
+    "level": "Advanced"
+  },
+  {
+    "id": 8,
+    "name": "Artificial Intelligence Basics",
+    "title": "Introduction to AI and Machine Learning",
+    "description": "Explore the world of AI with machine learning and neural network fundamentals.",
+    "price": 35.99,
+    "category": "AI",
+    "ratings": 4.6,
+    "image": "https://i.postimg.cc/B6ZrqW24/ai-course.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 9,
+    "name": "Photography Masterclass",
+    "title": "Capture Stunning Photos",
+    "description": "Learn the art of photography, including camera settings and post-processing techniques.",
+    "price": 22.99,
+    "category": "Photography",
+    "ratings": 4.7,
+    "image": "https://i.postimg.cc/fytgLMyn/photography.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 10,
+    "name": "Ethical Hacking 101",
+    "title": "Learn Ethical Hacking",
+    "description": "Understand penetration testing, network security, and ethical hacking principles.",
+    "price": 44.99,
+    "category": "Cybersecurity",
+    "ratings": 4.9,
+    "image": "https://i.postimg.cc/8k02V0cg/ethical-hacking.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 11,
+    "name": "Creative Writing Workshop",
+    "title": "Master Storytelling and Writing Skills",
+    "description": "Unlock your creativity and learn to write engaging stories and content.",
+    "price": 15.99,
+    "category": "Writing",
+    "ratings": 4.5,
+    "image": "https://i.postimg.cc/V673v7FM/creative-writing.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 12,
+    "name": "Blockchain Fundamentals",
+    "title": "Learn Blockchain Technology",
+    "description": "Explore blockchain concepts and learn how cryptocurrencies work.",
+    "price": 32.99,
+    "category": "Technology",
+    "ratings": 4.7,
+    "image": "https://i.postimg.cc/rp96Xy0f/blockchain.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 13,
+    "name": "Cooking Essentials",
+    "title": "Master the Basics of Cooking",
+    "description": "Learn essential cooking techniques and delicious recipes from top chefs.",
+    "price": 18.99,
+    "category": "Cooking",
+    "ratings": 4.6,
+    "image": "https://i.postimg.cc/LsSdbgXq/cooking-course.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 14,
+    "name": "Mobile App Development",
+    "title": "Create Your First App",
+    "description": "Learn to build Android and iOS applications from scratch.",
+    "price": 42.99,
+    "category": "Programming",
+    "ratings": 4.8,
+    "image": "https://i.postimg.cc/HxLhqwCL/mobile-app.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 15,
+    "name": "Fitness Trainer Certification",
+    "title": "Become a Certified Fitness Trainer",
+    "description": "Comprehensive fitness training course covering anatomy and exercise techniques.",
+    "price": 49.99,
+    "category": "Health",
+    "ratings": 4.9,
+    "image": "https://i.postimg.cc/zGm4yHTd/fitness.jpg",
+    "level": "Advanced"
+  },
+  {
+    "id": 16,
+    "name": "Interior Design Principles",
+    "title": "Design Beautiful Spaces",
+    "description": "Learn the art of interior design with practical exercises and real-world examples.",
+    "price": 28.99,
+    "category": "Design",
+    "ratings": 4.6,
+    "image": "https://i.postimg.cc/Pqy7V69c/interior-design.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 17,
+    "name": "Public Speaking Mastery",
+    "title": "Confidently Speak in Public",
+    "description": "Overcome stage fright and deliver impactful speeches with ease.",
+    "price": 20.99,
+    "category": "Personal Development",
+    "ratings": 4.5,
+    "image": "https://i.postimg.cc/mkvp1K1c/public-speaking.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 18,
+    "name": "Game Development with Unity",
+    "title": "Create Your Own Games",
+    "description": "Learn game design and development using Unity and C#.",
+    "price": 39.99,
+    "category": "Game Development",
+    "ratings": 4.8,
+    "image": "https://i.postimg.cc/y8Ftc6P7/game-dev.jpg",
+    "level": "Intermediate"
+  },
+  {
+    "id": 19,
+    "name": "Yoga and Mindfulness",
+    "title": "Achieve Inner Peace",
+    "description": "Explore yoga techniques and mindfulness practices for a balanced life.",
+    "price": 16.99,
+    "category": "Health",
+    "ratings": 4.7,
+    "image": "https://i.postimg.cc/Vk813VZL/yoga.jpg",
+    "level": "Beginner"
+  },
+  {
+    "id": 20,
+    "name": "Advanced SQL for Analysts",
+    "title": "Master SQL for Data Analysis",
+    "description": "Take your SQL skills to the next level and become a data analysis expert.",
+    "price": 34.99,
+    "category": "Data Science",
+    "ratings": 4.8,
+    "image": "https://i.postimg.cc/W1gL8w2L/advanced-sql.jpg",
+    "level": "Advanced"
+  }
+]

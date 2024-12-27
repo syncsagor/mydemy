@@ -3,7 +3,7 @@ import "./Nav.css";
 
 const Nav = () => {
   return (
-    <nav className="navbar navbar-expand-lg">
+    <nav className="navbar navbar-expand-lg container">
       <div className="container-fluid">
         <a className="navbar-brand" href="#home">
           MyDemy

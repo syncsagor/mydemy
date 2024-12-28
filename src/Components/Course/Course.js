@@ -17,7 +17,12 @@ const Course = (props) => {
         <p>
           <strong>Price: {props.course.price}</strong>
         </p>
-        <button className="btn btn-primary">Enroll Now</button>
+        <button
+          onClick={() => props.handleEnroll(props.course)}
+          className="btn btn-primary"
+        >
+          Enroll Now
+        </button>
       </div>
     </div>
   );
